@@ -1,0 +1,11 @@
+{
+  "name": "Morrow — Mortgage Planner",
+  "short_name": "Morrow",
+  "description": "A calmer way to understand your mortgage and explore scenarios.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7faf7",
+  "theme_color": "#eaf3ed",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
