@@ -43,3 +43,7 @@ Keep the repository on GitHub for source control. For a public app that may be m
 - Test CSV and JSON export/import, deletion, offline refresh, installation and browser data clearing.
 - Test keyboard-only navigation, contrast and screen reader use.
 - Obtain specialist review before adding mortgage referrals, paid financial promotions or lead capture.
+
+
+## Goal-based overpayment guide
+The overview estimates the monthly extra payment needed to reach the selected LTV goal within a chosen 1–5 year horizon, or by the entered deal-end date. It uses a simplified monthly amortisation model and rounds the suggested extra up to the next pound. It is an illustration, not a recommendation to pay more than is affordable. Review lender overpayment limits, early repayment charges and allowance rules first.
